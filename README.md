@@ -96,7 +96,7 @@ app/
 Abre una terminal y ejecuta:
 
 ```bash
-git clone https://github.com/jonas-gc22/app-catalogo-de-estudinates.git
+git clone https://github.com/jonas-gc22/app-catalogo-de-estudiantes.git
 ```
 
 ### 2️⃣ Abrir el proyecto en Android Studio
@@ -128,7 +128,7 @@ Sync Project with Gradle Files
 
 Puedes acceder al código fuente desde:
 
-👉 https://github.com/jonas-gc22/app-catalogo-de-estudinates.git
+👉 https://github.com/jonas-gc22/app-catalogo-de-estudiantes.git
 
 ---
 
